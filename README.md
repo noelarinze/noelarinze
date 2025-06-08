@@ -1,7 +1,8 @@
- <h1 align="center">Hello👋, I’m Noel</h1>
- ---
+
+ <h1 align="center">Hello👋, I’m Noel</h1> 
  
 ### 👩‍💻 About Me
+
 - 👀  I’m a Data Analyst and Business Intelligence Specialist passionate about turning raw data into impactful insights.
 - 💼 I work with tools like Power BI, Excel, SQL, and Python to solve real business problems.
 - 📊 I enjoy building interactive dashboards, cleaning complex datasets, and uncovering patterns that drive smart decisions.
