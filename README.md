@@ -10,7 +10,7 @@
 - 📫 Here's how to reach me- 📫 [LinkedIn: Noel Arinze](https://www.linkedin.com/in/arinze-noel-egwu-094178328/)
 - 😄 Pronouns: He/Him
 
-
+ ---
 
 ### ⚙️ Tech Stack & Tools
 <p align="center">
